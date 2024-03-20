@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lindedln/2 - Introducción a la inteligencia de negocio.md",
+                "file": "Lindedln/3 - Identificación de los datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lindedln/2 - Introducción a la inteligencia de negocio.md",
+                "file": "Lindedln/3 - Identificación de los datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lindedln/2 - Introducción a la inteligencia de negocio.md",
+                "file": "Lindedln/3 - Identificación de los datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lindedln/2 - Introducción a la inteligencia de negocio.md"
+                "file": "Lindedln/3 - Identificación de los datos.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "24a0d9777911d858",
   "lastOpenFiles": [
-    "Lindedln/1 - Introducción a datos y al análisis de datos.md",
     "Lindedln/2 - Introducción a la inteligencia de negocio.md",
+    "Lindedln/3 - Identificación de los datos.md",
+    "Lindedln/1 - Introducción a datos y al análisis de datos.md",
     "Lindedln/Untitled",
     "Platzi/README.md",
     "Lindedln",
